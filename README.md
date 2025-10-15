@@ -50,7 +50,6 @@ const dmytro = {
 ## 💻 Tech Arsenal
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
@@ -95,16 +94,6 @@ const dmytro = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmiseev&layout=compact&hide_border=true&title_color=36BCF7&text_color=36BCF7&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmiseev&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</div>
-
-## 🎯 Current Objectives
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Scaling+E-commerce+Platforms;👥+Building+High-Performance+Teams;⚡+Optimizing+Development+Processes;🔧+Implementing+DDD+Practices;📊+Driving+Technical+Excellence&font=Fira%20Code&center=true&width=600&height=50&duration=2500&pause=500&color=36BCF7" alt="Current Objectives" />
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -120,9 +109,6 @@ const dmytro = {
 </div>
 
 <br>
-
-<!-- Activity Graph -->
-[![Dmytro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmiseev&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Random programming quote -->
 <div align="center">
